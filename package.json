@@ -1,0 +1,30 @@
+{
+  "name": "vue-boilerplate",
+  "version": "1.0.0",
+  "description": "Boilerplate for Vue.js with Typescript",
+  "main": "index.js",
+  "author": "Masayuki Suzuki",
+  "license": "MIT",
+  "devDependencies": {
+    "awesome-typescript-loader": "^5.0.0",
+    "babel": "^6.23.0",
+    "babel-core": "^6.26.3",
+    "babel-eslint": "^8.2.3",
+    "babel-loader": "^7.1.4",
+    "babel-preset-env": "^1.7.0",
+    "browser-sync": "^2.24.4",
+    "eslint": "^4.19.1",
+    "eslint-config-airbnb": "^16.1.0",
+    "eslint-config-airbnb-base": "^12.1.0",
+    "eslint-plugin-import": "^2.12.0",
+    "fork-ts-checker-webpack-plugin": "^0.4.2",
+    "hard-source-webpack-plugin": "^0.7.5",
+    "prettier": "^1.13.4",
+    "prettier-eslint": "^8.8.1",
+    "prettier-eslint-cli": "^4.7.1",
+    "ts-loader": "^4.3.1",
+    "typescript": "^2.9.1",
+    "webpack": "^4.11.1",
+    "webpack-cli": "^3.0.3"
+  }
+}
